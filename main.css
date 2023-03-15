@@ -1,0 +1,45 @@
+/* body{
+    /* background:linear-gradient(to right, white, blue 70% ); */
+  
+                
+
+
+/* .notice-sucess{
+   box-sizing: border-box;
+   height:400px;
+    background: #6314a5 url(../images/tick.jpeg) 5% 50% no-repeat;
+   
+    border:5px solid #de8613 ;
+    font-size:48px;
+    font-weight: bolder;
+    text-align: center;
+    padding:8%;
+    border-radius:5px;
+    width:90%;
+  background: linear-gradient(to right bottom, #f6f1d3,#648880 85%,#293f50);
+} */
+
+.main {
+  background-color:aqua;
+  /* border:1px solid black; */
+  display: inline-block;
+  width: 200px;
+  list-style:lower-alpha;
+  /* color:white; */
+  line-height: 40px;
+  width: 300px;
+  /* text-transform:capitalize; */
+  color: grey;
+  /* font-variant:small-caps; */
+  text-transform: capitalize;
+
+}
+dt{
+  text-transform:uppercase;
+  font-weight:600;
+  line-height:50px;
+}
+.para{
+  line-height:50px;
+  color:blue;
+}
